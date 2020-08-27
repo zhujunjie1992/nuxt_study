@@ -1,0 +1,19 @@
+{
+  "name": "vue_nuxt_proejct_demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "element-ui": "^2.13.2",
+    "nuxt": "^2.14.0",
+    "vue-amap": "^0.5.10",
+    "vue-baidu-map": "^0.21.22"
+  },
+  "devDependencies": {}
+}
